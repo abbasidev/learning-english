@@ -1,0 +1,9 @@
+Four Corners Books
+
+1 Book = 12 Unit = 48 Lessons
+4 Book = 48 Unit = 192 Lessons 
+
+1 Unit = 4 Lessons
+1 Lesson = 2 page
+
++ Workbook 
