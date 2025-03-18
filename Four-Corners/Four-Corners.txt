@@ -7,3 +7,9 @@ Four Corners Books
 1 Lesson = 2 page
 
 + Workbook 
+
+seen = s
+note = +n
+ai = +a
+reviwed = +r
+workbook = +w
