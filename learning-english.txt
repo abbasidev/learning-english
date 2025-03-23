@@ -1,24 +1,33 @@
-Learning English 
+# Learning English
 
-///
+# //
 
-1 - YouTube = Alireza Sadeghiyan
-2 - Audios = Zaban Nosrat
-3 - Videos = Udemy Courses
-4 - Books = Four Corners Books
-5 - Telegram = Movies & Series
+* Books + YouTube
+- Oxford Word Skills
+- Grammar in Use
+- Four Corners
 
-Design & Develop (YouTube, Udemy, Book, Website, Documentation & More)
+* YouTube
+- Alireza Sadeghiyan
 
-///
+* Videos
+- Udemy Courses
 
-فشرده سازی تصاویر 60 درصد
+* Telegram
+- Movies & Series
 
-///
+* Design & Develop
+- YouTube, Udemy, Book, Website, Documentation & More
 
-seen = s
-note = +n
-ai = +a
-reviwed = +r
+# //
 
-///
+* ApowerCompress = 60%
+
+# //
+
+- seen = s
+- note = +n
+- ai = +a
+- reviwed = +r
+
+# //
