@@ -1,0 +1,14 @@
+# //
+
+- 1 Book = 100 Unit
+- 3 Book = 300 Unit
+
+# //
+
+
+- seen = s
+- note = +n
+- ai = +a
+- reviwed = +r
+
+# //
