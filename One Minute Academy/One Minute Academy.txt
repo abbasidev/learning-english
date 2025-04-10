@@ -1,0 +1,15 @@
+# //
+
+- OMA (01-23) s +n +a +r +r
+- OMA (24-47) s +n +a +r
+- OMA (48-76)
+- OMA (77-105)
+
+# //
+
+- seen = s
+- note = +n
+- ai = +a
+- reviwed = +r
+
+# //
