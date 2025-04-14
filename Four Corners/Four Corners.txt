@@ -1,7 +1,7 @@
 # //
 
-- 1 Book = 12 Unit = 48 Lessons
-- 4 Book = 48 Unit = 192 Lessons
+- 1 Book = 12 Unit = 048 Lessons ≈ 050 Lessons
+- 4 Book = 48 Unit = 192 Lessons ≈ 200 Lessons
 
 + Workbook
 
