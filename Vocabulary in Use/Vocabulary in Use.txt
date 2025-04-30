@@ -1,0 +1,17 @@
+# //
+
+- Vocabulary in Use - Elementary = 060 Unit
+- Vocabulary in Use - Pre-Intermediate = 100 Unit
+- Vocabulary in Use - Upper-Intermediate = 101 Unit
+- Vocabulary in Use - Advanced = 101 Unit
+
+- Vocabulary in Use - All Books = 362 Unit
+
+# //
+
+- seen = s
+- note = +n
+- ai = +a
+- reviwed = +r
+
+# //
