@@ -1,7 +1,7 @@
 # //
 
-- 1 Book = 12 Unit = 048 Lessons ≈ 050 Lessons
-- 4 Book = 48 Unit = 192 Lessons ≈ 200 Lessons
+- 1 Book = 12 Units = 048 Lessons ≈ 050 Lessons
+- 4 Books = 48 Units = 192 Lessons ≈ 200 Lessons
 
 + Workbook
 
@@ -10,14 +10,5 @@
 - Backup
 - 48/2 = 24
 - نیازی به جزوه نخواهد داشت و از کتاب بک آپ گرفته میشود
-
-# //
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
-
-- workbook = +w
 
 # //

@@ -7,10 +7,3 @@
 - OMA (80-105)
 
 # //
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
-
-# //

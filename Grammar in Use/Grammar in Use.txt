@@ -1,10 +1,9 @@
 # //
 
-- Grammar in Use - Basic = 113 Unit
-- Grammar in Use - Intermediate = 142 Unit
-- Grammar in Use - Advanced = 100 Unit
-
-- Grammar in Use - All Books = 355 Unit
+- Grammar in Use - Basic = 113 Units
+- Grammar in Use - Intermediate = 142 Units
+- Grammar in Use - Advanced = 100 Units
+- Grammar in Use - All Books = 355 Units
 
 # //
 
@@ -12,12 +11,5 @@
 - 113/5 = 22
 - 142/6 = 24
 - 100/5 = 20
-
-# //
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
 
 # //

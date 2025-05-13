@@ -1,19 +1,11 @@
 # //
 
-- 1 Book = 100 Unit
-- 3 Book = 300 Unit
+- 1 Book = 100 Units
+- 3 Books = 300 Units
 
 # //
 
 - Backup
 - 100/5 = 20
-
-# //
-
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
 
 # //

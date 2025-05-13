@@ -6,7 +6,9 @@
 - Vocabulary in Use
 - Grammar in Use
 - Four Corners
-- CIU IIU PVIU
+- Collocations in Use
+- Idioms in Use
+- Phrasal Verbs in Use
 
 - Alireza Sadeghiyan
 
@@ -22,27 +24,27 @@
 
 # //
 
-* 1
-- OWS1 = 100
-- VIU1, VIU2 = 160
-- GIU1 = 113
-- FC1, FC2, FC3, FC4 = 200
+* A1-A2 = 573 Units
+- Oxford Word Skills 1 = 100 Units
+- Vocabulary in Use 1, Vocabulary in Use 2 = 160 Units
+- Grammar in Use 1 = 113 Units
+- Four Corners 1, Four Corners 2, Four Corners 3, Four Corners 4 = 200 Lessons
 
-* 2
-- OWS2 = 100
-- VIU3 = 101
-- GIU3 = 142
-- CIU1 = 60
-- IIU1 = 62
-- PVIU1 = 70
+* B1-B2 = 535 Units
+- Oxford Word Skills 2 = 100 Units
+- Vocabulary in Use 3 = 101 Units
+- Grammar in Use 2 = 142 Units
+- Collocations in Use 1 = 60 Units
+- Idioms in Use 1 = 62 Units
+- Phrasal Verbs in Use 1 = 70 Units
 
-* 3
-- OWS3 = 100
-- VIU4 = 101
-- GIU3 = 100
-- CIU2 = 60
-- IIU2 = 60
-- PVIU2 = 60
+* C1-C2 = 481 Units
+- Oxford Word Skills 3 = 100 Units
+- Vocabulary in Use 4 = 101 Units
+- Grammar in Use 3 = 100 Units
+- Collocations in Use 2 = 60 Units
+- Idioms in Use 2 = 60 Units
+- Phrasal Verbs in Use 2 = 60 Units
 
 # //
 
@@ -54,6 +56,7 @@
 - note = +n
 - ai = +a
 - reviwed = +r
+- workbook = +w
 
 # //
 
