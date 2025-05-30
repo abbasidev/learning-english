@@ -3,10 +3,3 @@
 - 001-230 = 250 h
 
 # //
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
-
-# //

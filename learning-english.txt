@@ -68,10 +68,3 @@
 - workbook = +w
 
 # //
-
-run in powershell
-for($i=0;$i -lt 10;$i++){write-host "OWS-00$i"};
-for($i=10;$i -lt 100;$i++){write-host "OWS-0$i"};
-for($i=100;$i -lt 150;$i++){write-host "OWS-$i"};
-
-# //
