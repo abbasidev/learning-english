@@ -1,10 +1,5 @@
 # //
 
-- DK English for Everyone Dictionary = 180 Units
-
-# //
-
-- Backup
-- 180/9 = 20
+- DK English for Everyone Dictionary
 
 # //

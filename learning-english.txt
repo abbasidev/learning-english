@@ -53,7 +53,8 @@
 - DK English for Everyone Business 2 = 44 Units
 
 * Reference
-- DK English for Everyone Dictionary = 180 Units
+- DK English for Everyone Dictionary
+- DK English Bilingual Visual Dictionary
 
 # //
 
