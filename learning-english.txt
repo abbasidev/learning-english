@@ -18,21 +18,21 @@
 
 # //
 
-* Step 1 = 690 Units
+* Step 1 = 648 Units
 - Oxford Word Skills 1 = 100 Units
 - Cambridge Vocabulary in Use 1, 2 = 160 Units
 - Cambridge Grammar in Use 1 = 113 Units
 - Cambridge Four Corners 1, 2 = 100 Lessons
 - DK English for Everyone 1, 2 = 97 Units
-- DK English for Everyone Grammar = 120 Units
+- DK English for Everyone Vocabulary Builder = 78 Units
 
-* Step 2 = 666 Units
+* Step 2 = 708 Units
 - Oxford Word Skills 2 = 100 Units
 - Cambridge Vocabulary in Use 3 = 101 Units
 - Cambridge Grammar in Use 2 = 142 Units
 - Cambridge Four Corners 3, 4 = 100 Lessons
 - DK English for Everyone 3, 4 = 145 Units
-- DK English for Everyone Vocabulary Builder = 78 Units
+- DK English for Everyone Grammar = 120 Units
 
 * Step 3 = 411 Units
 - Oxford Word Skills 3 = 100 Units
@@ -66,6 +66,5 @@
 - note = +n
 - ai = +a
 - reviwed = +r
-- workbook = +w
 
 # //
