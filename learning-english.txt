@@ -2,22 +2,6 @@
 
 # //
 
-- Books (Cambridge, DK, Oxford)
-
-- Alireza Sadeghiyan
-
-- Udemy Courses
-
-- Design & Develop
-
-- Movies & Series
-
-- English Activities Gap
-- English With Movies Gap
-- English With Series Gap
-
-# //
-
 * Step 1 = 570 Units
 - Oxford Word Skills 1 = 100 Units
 - Cambridge Vocabulary in Use 1, 2 = 160 Units
@@ -52,19 +36,7 @@
 - DK English for Everyone Business 2 = 44 Units
 
 * Reference
-- DK English for Everyone Grammar
 - DK English for Everyone Dictionary
 - DK English Bilingual Visual Dictionary
-
-# //
-
-- ApowerCompress = 60%
-
-# //
-
-- seen = s
-- note = +n
-- ai = +a
-- reviwed = +r
 
 # //
