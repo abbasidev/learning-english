@@ -2,19 +2,16 @@
 
 # //
 
-* Step 1 = 570 Units
+* Step 1 = 565 Units
 - Oxford Word Skills 1 = 100 Units
 - Cambridge Vocabulary in Use 1, 2 = 160 Units
 - Cambridge Grammar in Use 1 = 113 Units
-- Cambridge Four Corners 1, 2 = 100 Lessons
-- DK English for Everyone 1, 2 = 97 Units
+- Cambridge Four Corners 1, 2, 3, 4 = 192 Lessons
 
-* Step 2 = 588 Units
+* Step 2 = 343 Units
 - Oxford Word Skills 2 = 100 Units
 - Cambridge Vocabulary in Use 3 = 101 Units
 - Cambridge Grammar in Use 2 = 142 Units
-- Cambridge Four Corners 3, 4 = 100 Lessons
-- DK English for Everyone 3, 4 = 145 Units
 
 * Step 3 = 351 Units
 - Oxford Word Skills 3 = 100 Units
